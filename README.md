@@ -8,7 +8,7 @@
 - Consejos prácticos y respuestas a preguntas comunes
 
 ### 🌍 Ver la web publicada
-👉 [Haz clic aquí para visitar la página](https://jangel222.github.io/Primeros-50-/)
+👉 [Haz clic aquí para visitar la página]([https://jangel222.github.io/Primeros-50-/)
 
 ---
 
