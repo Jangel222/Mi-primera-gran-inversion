@@ -1,2 +1,16 @@
-# Mi-primera-gran-inversion
-Una página web clara, directa y motivadora para ayudar a personas sin conocimientos financieros a dar sus primeros pasos en el mundo de la inversión con solo 50 €. Incluye formación básica, opciones reales para empezar, consejos prácticos, y respuestas a las dudas más frecuentes. Ideal para quienes quieren aprender a invertir desde cero.
+# Invierte tus primeros 50 €
+
+💸 Una guía web sencilla y directa para ayudarte a invertir tus primeros 50€, incluso si no tienes experiencia previa.
+
+### 🚀 ¿Qué contiene esta página?
+- Explicación clara de qué es invertir
+- Opciones simples para empezar con poco dinero
+- Consejos prácticos y respuestas a preguntas comunes
+
+### 🌍 Ver la web publicada
+👉 [Haz clic aquí para visitar la página](https://TUUSUARIO.github.io/invierte-50-euros)
+
+---
+
+Creado con ❤️ para ayudarte a tomar el control de tu dinero.
+
